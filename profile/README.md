@@ -31,37 +31,37 @@ To use hacks, you need to access the developer console in your browser:
 
 Here are the most powerful hacks to boost your cookie empire instantly:
 
-🍪 Get Unlimited Cookies
+### 🍪 Get Unlimited Cookies
 
 This command will give you a massive amount of cookies instantly:
 
 `Game.cookies = 999999999999;`
 
-⚡ Increase Cookie Click Power
+### ⚡ Increase Cookie Click Power
 
 Boost the cookies earned per click:
 
 `Game.cookiesPerClick = 999999;`
 
-🚀 Unlock All Upgrades & Buildings
+### 🚀 Unlock All Upgrades & Buildings
 
 Instantly unlock all buildings and upgrades:
 
 `Game.UpgradesById.forEach(upg => upg.unlock());`
 
-⭐ Spawn Golden Cookies
+### ⭐ Spawn Golden Cookies
 
 Summon golden cookies for special bonuses:
 
 `Game.goldenCookie.click();`
 
-⏳ Speed Up Game Time
+### ⏳ Speed Up Game Time
 
 Make the game run 1000 times faster:
 
 `Game.fps = 1000;`
 
-🔄 Auto-Clicker Hack
+### 🔄 Auto-Clicker Hack
 
 Click automatically without lifting a finger:
 
